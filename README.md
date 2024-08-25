@@ -1,7 +1,9 @@
 # VersionControl
 Name: Damien
-Course CEN 3024C
-CRN: 202510
+Course COP 2805C
+CRN: 202410
+
+CRN For assignment: 202510
 
 
 This program runs two calculations of the fibonacci sequence and compares speed with threads.
